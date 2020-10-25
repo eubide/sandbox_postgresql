@@ -1,0 +1,1 @@
+# vagrant-postgres-template
